@@ -18,8 +18,8 @@ function updateParagraph() {
 
 function updateButton() {
   if(showParagraph) {
-    myParagraph.textContent = 'Paragraph content is showing';
+    myParagraph.textContent = 'Hay hay hay hay... Thanks for clicking the button...:D';
   } else {
-    myParagraph.textContent = 'Paragraph content is not showed';
+    myParagraph.textContent = 'Please click the button';
   }
 }
