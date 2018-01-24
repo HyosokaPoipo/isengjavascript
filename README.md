@@ -1,2 +1,2 @@
 # isengjavascript
-iseng di javascript. :D
+iseng di javascript pake webpack...yeaah... :D
