@@ -15,3 +15,16 @@ p {
   width: 50%;
   font-size: 20px;
 }
+
+button{
+  border: 1px solid green;
+  background-color:white;
+  padding: 8px;
+  font: inherit;
+  cursor:crosshair;
+  outline: none;
+}
+
+button:hover {
+  bacground-color: #FFF;
+}
