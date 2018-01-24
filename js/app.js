@@ -1,6 +1,6 @@
 var showParagraph = false;
 
-myButton.addEvenListener('click', toggleState);
+myButton.addEventListener('click', toggleState);
 
 function toggleState() {
   showParagraph = !showParagraph;
@@ -8,7 +8,7 @@ function toggleState() {
   updateButton();
 }
 
-function updateParagrapth() {
+function updateParagraph() {
   if(showParagraph) {
     myButton.textContent = 'Hide Paragraph';
   } else {
