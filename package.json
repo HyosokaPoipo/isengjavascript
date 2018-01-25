@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/HyosokaPoipo/isengjavascript/issues"
   },
-  "homepage": "https://github.com/HyosokaPoipo/isengjavascript#readme"
+  "homepage": "https://github.com/HyosokaPoipo/isengjavascript#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
 }
