@@ -1,3 +1,5 @@
+import {myButton, myParagraph} from './poipo-dom-loader.js';
+
 var showParagraph = false;
 
 myButton.addEventListener('click', toggleState);
