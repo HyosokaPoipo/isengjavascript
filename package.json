@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "poipo_build": "webpack js/app.js dist/bundle.js"
+    "poipo_build": "webpack js/app.js dist/bundle.js",
+    "poipo_build_prod": "webpack js/app.js dist/bundle.js -p"
   },
   "repository": {
     "type": "git",
